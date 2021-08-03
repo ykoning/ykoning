@@ -1,0 +1,2 @@
+- 👋 Hi, I’m Yko
+- 👀 I’m interested in Home Assistant
